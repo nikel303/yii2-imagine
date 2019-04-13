@@ -41,7 +41,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/nikel303/Imagine"
+            "url": "https://github.com/nikel303/Imagine.git"
         }
     ]
 }
