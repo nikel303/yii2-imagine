@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-imagine",
+    "name": "nikel303/yii2-imagine",
     "description": "The Imagine integration for the Yii framework",
     "keywords": ["yii2", "imagine", "image", "helper"],
     "type": "yii2-extension",
@@ -19,7 +19,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "imagine/imagine": "~0.6.0 | ~0.7.1"
+        "nikel303/imagine": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "<7"
@@ -38,6 +38,10 @@
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/nikel303/Imagine"
         }
     ]
 }
